@@ -3,7 +3,7 @@
 //
 //  Created by Daniel Tomlinson on 08/04/2014.
 //
-//  Copyright (c) 2014 Daniel Tomlinson.
+//  Copyright (c) 2014 WeAreBase.
 //
 //  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 //  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
